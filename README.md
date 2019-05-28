@@ -1,2 +1,2 @@
 # DBMQ
-DistributedBrokerLessMemoryQueue
+Distributed BrokerLess MemoryQueue
